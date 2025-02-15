@@ -1,0 +1,3 @@
+<?= $data['footer']; ?>
+</body>
+</html>
