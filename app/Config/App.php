@@ -4,7 +4,7 @@ class App
 	public $database = [
 		'mysqli' => [
 			'default' => [
-				'status' => false,
+				'status' => true,
 				'host' => 'localhost',
 				'user' => 'root',
 				'pass' => '',
