@@ -49,7 +49,7 @@ class Home extends BaseController
 }
 
 // Example route
-// https://website.com/about/sergey
+// https://website.com/about/sergey.html
 
 $this->route('/about/(:any).html', 'Home/about/$1');
 
